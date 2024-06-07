@@ -14,21 +14,8 @@ Escreva os dados acima na notação JSON. Para esta atividade utilize o bloco de
 
 ETAPA 2
 Uma empresa deseja cadastrar seus funcionários. Ao verificar seus documentos, encontrou-se a seguinte planilha abaixo:
-____________________________________________________________________________
-|Nome      |Endereço          |e-mails         |Cargo    |Jornada|Salário   |
-|João Grilo|Rua Suassuna,30,  |grilo@gmail.com,|Contador |40     |R$3000,00 |
-|          |João Pessoa, PB   |joaog@mk.com    |         |       |          |
-|__________|__________________|________________|_________|_______|__________|
-|Ada Byron |Rua Lovelace,67,  |ada@mail.com,   |Developer|20     |R$15000,00|
-|          |London            |abyron@tech.com |         |       |          |
-|__________|__________________|________________|_________|_______|__________|
-|Gerundino |Rua Substantivo,78|gerundino@gmail.|Linguista|44     |R$8000,00 |
-|          |Bairro Predicado, |com             |         |       |          |
-|__________|__________________|________________|_________|_______|__________|
-|Chicó     |Rua Eurico,50,João|                |Developer|20     |R$15000,00|
-|          |Pessoa, PB, Apt 28|                |         |       |          |
-|          |Bloco c           |                |         |       |          |
-|__________|__________________|________________|_________|_______|__________|
+![image](https://github.com/AugustoEvangelista/NoSQL/assets/169067689/33ff0fdc-e471-489b-9f73-55ecfc1980ae)
+
 Crie, conforme o modelo relacional, as tabelas normalizadas. Crie também um documento JSON que contenha esses dados.
 
 ETAPA 3
