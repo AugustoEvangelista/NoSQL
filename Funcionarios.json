@@ -1,0 +1,28 @@
+{
+   "funcionarios": {
+      "id": 2,
+      "nome": "Ada Byron",
+      "endereco_id": 2,
+      "cargo": "Developer",
+      "jornada": 20,
+      "salario": 15000,
+      "emails": [
+         "ada@mail.com",
+         "abyron@tech.com"
+      ]
+   },
+   "enderecos": {
+      "id": 4,
+      "logradouro": "Rua Eurico",
+      "numero": 50,
+      "complemento": "Apt 28, Bloco C",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "pais": "Brasil"
+   },
+   "emails": {
+      "id": 2,
+      "funcionario_id": 1,
+      "email": "joaog@mk.com"
+   }
+}
