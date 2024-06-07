@@ -24,7 +24,10 @@ Ao término do exemplo, crie um segundo banco de dados, mas utilizando o tema Jo
 Nesse banco deve haver, coleções de personagens, jogos e fabricante;
 Relacione documentos de diferentes coleções.
 
-Primeiro Banco de dodos
+Primeiro Banco de dados
+![image](https://github.com/AugustoEvangelista/NoSQL/assets/169067689/89b61a19-b38f-4b8e-8121-9aeeab3aa359)
+![image](https://github.com/AugustoEvangelista/NoSQL/assets/169067689/bdb1624e-d5a8-4a34-9110-10ac9c6eafa9)
+![image](https://github.com/AugustoEvangelista/NoSQL/assets/169067689/b7535af0-1776-4465-8a57-fb81f4b570e8)
 
 Programas utilizados: Firebase 
 
