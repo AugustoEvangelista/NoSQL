@@ -1,17 +1,71 @@
 {
-   "funcionarios": {
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "João Grilo",
+      "endereco_id": 1,
+      "cargo": "Contador",
+      "jornada": 40,
+      "salario": 3000.00,
+      "emails": ["grilo@gmail.com", "joaog@mk.com"]
+    },
+    {
       "id": 2,
       "nome": "Ada Byron",
       "endereco_id": 2,
       "cargo": "Developer",
       "jornada": 20,
-      "salario": 15000,
-      "emails": [
-         "ada@mail.com",
-         "abyron@tech.com"
-      ]
-   },
-   "enderecos": {
+      "salario": 15000.00,
+      "emails": ["ada@mail.com", "abyron@tech.com"]
+    },
+    {
+      "id": 3,
+      "nome": "Gerundino",
+      "endereco_id": 3,
+      "cargo": "Linguista",
+      "jornada": 44,
+      "salario": 8000.00,
+      "emails": ["gerundino@gmail.com"]
+    },
+    {
+      "id": 4,
+      "nome": "Chicó",
+      "endereco_id": 4,
+      "cargo": "Developer",
+      "jornada": 20,
+      "salario": 15000.00,
+      "emails": []
+    }
+  ],
+  "enderecos": [
+    {
+      "id": 1,
+      "logradouro": "Rua Suassuna",
+      "numero": 30,
+      "complemento": null,
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "pais": "Brasil"
+    },
+    {
+      "id": 2,
+      "logradouro": "Rua Lovelace",
+      "numero": 67,
+      "complemento": null,
+      "cidade": "London",
+      "estado": null,
+      "pais": "UK"
+    },
+    {
+      "id": 3,
+      "logradouro": "Rua Substantivo",
+      "numero": 78,
+      "complemento": "Bairro Predicado",
+      "cidade": null,
+      "estado": null,
+      "pais": null
+    },
+    {
       "id": 4,
       "logradouro": "Rua Eurico",
       "numero": 50,
@@ -19,10 +73,33 @@
       "cidade": "João Pessoa",
       "estado": "PB",
       "pais": "Brasil"
-   },
-   "emails": {
+    }
+  ],
+  "emails": [
+    {
+      "id": 1,
+      "funcionario_id": 1,
+      "email": "grilo@gmail.com"
+    },
+    {
       "id": 2,
       "funcionario_id": 1,
       "email": "joaog@mk.com"
-   }
+    },
+    {
+      "id": 3,
+      "funcionario_id": 2,
+      "email": "ada@mail.com"
+    },
+    {
+      "id": 4,
+      "funcionario_id": 2,
+      "email": "abyron@tech.com"
+    },
+    {
+      "id": 5,
+      "funcionario_id": 3,
+      "email": "gerundino@gmail.com"
+    }
+  ]
 }
