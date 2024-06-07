@@ -1,6 +1,8 @@
-página inicial: www.google.com
-Idioma preferido: Português do Brasil
-Localização: São Paulo
-Tema: Clássico
-Mostrar favoritos: Sim
-Zoom: 100%
+{
+  "pagina_inicial": "www.google.com",
+  "idioma_preferido": "Português do Brasil",
+  "localizacao": "São Paulo",
+  "tema": "Clássico",
+  "mostrar_favoritos": "Sim",
+  "zoom": "100%"
+}
