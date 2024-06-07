@@ -24,6 +24,8 @@ Ao término do exemplo, crie um segundo banco de dados, mas utilizando o tema Jo
 Nesse banco deve haver, coleções de personagens, jogos e fabricante;
 Relacione documentos de diferentes coleções.
 
+Primeiro Banco de dodos
+
 Programas utilizados: Firebase 
 
 Nome: Augusto Evangelista Domingues
